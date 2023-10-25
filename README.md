@@ -1,1 +1,1 @@
-# Chaumian-PKI by Kyber
+# Chaumian-PKI by Lattice based homomorphic cryptography
